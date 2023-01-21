@@ -15,5 +15,3 @@ There are ten questions in the game and these are about soccer game in Turkey.Wh
 
 <a href="https://enginc4n.itch.io/silly-question" target="_blank">
 <img src=https://img.shields.io/badge/itchio-enginc4n-critical?logo=Itch.io height="25">
- 
-s
