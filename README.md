@@ -7,7 +7,7 @@ It's a phone game that is about asking questions to user and users try to find t
 
 ## ***Appendix***
 
-There are ten questions in the game and these are about soccer game in Turkey. When you find the correct answer just click the answer and you will get a point
+There are eight questions in the game and these are about soccer game in Turkey. When you find the correct answer just click the answer and you will get a point
 
 ## ***🔗 My Links***
 <a href="https://linkedin.com/in/enginc4n" target="_blank">
